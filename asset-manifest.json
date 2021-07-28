@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/looper/static/css/main.409357dd.chunk.css",
+    "main.js": "/looper/static/js/main.c5fc52e4.chunk.js",
+    "main.js.map": "/looper/static/js/main.c5fc52e4.chunk.js.map",
+    "runtime-main.js": "/looper/static/js/runtime-main.0265ba97.js",
+    "runtime-main.js.map": "/looper/static/js/runtime-main.0265ba97.js.map",
+    "static/css/2.0051d83b.chunk.css": "/looper/static/css/2.0051d83b.chunk.css",
+    "static/js/2.5eb389fe.chunk.js": "/looper/static/js/2.5eb389fe.chunk.js",
+    "static/js/2.5eb389fe.chunk.js.map": "/looper/static/js/2.5eb389fe.chunk.js.map",
+    "static/js/3.236d4b92.chunk.js": "/looper/static/js/3.236d4b92.chunk.js",
+    "static/js/3.236d4b92.chunk.js.map": "/looper/static/js/3.236d4b92.chunk.js.map",
+    "index.html": "/looper/index.html",
+    "static/css/2.0051d83b.chunk.css.map": "/looper/static/css/2.0051d83b.chunk.css.map",
+    "static/css/main.409357dd.chunk.css.map": "/looper/static/css/main.409357dd.chunk.css.map",
+    "static/js/2.5eb389fe.chunk.js.LICENSE.txt": "/looper/static/js/2.5eb389fe.chunk.js.LICENSE.txt",
+    "static/media/font-face.css": "/looper/static/media/Vazir-Thin.d96998b3.woff2",
+    "static/media/all.css": "/looper/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/img-1.44d6e05d.jpg": "/looper/static/media/img-1.44d6e05d.jpg",
+    "static/media/img-4.6492fc27.jpg": "/looper/static/media/img-4.6492fc27.jpg",
+    "static/media/logo.b15cab55.svg": "/looper/static/media/logo.b15cab55.svg",
+    "static/media/uifaces1.f56b774f.jpg": "/looper/static/media/uifaces1.f56b774f.jpg",
+    "static/media/uifaces15.d0ebaec8.jpg": "/looper/static/media/uifaces15.d0ebaec8.jpg",
+    "static/media/uifaces16.2a5ca42a.jpg": "/looper/static/media/uifaces16.2a5ca42a.jpg",
+    "static/media/uifaces17.46b218ed.jpg": "/looper/static/media/uifaces17.46b218ed.jpg",
+    "static/media/uifaces18.217a3b86.jpg": "/looper/static/media/uifaces18.217a3b86.jpg",
+    "static/media/uifaces20.3f30c2d3.jpg": "/looper/static/media/uifaces20.3f30c2d3.jpg",
+    "static/media/uifaces3.fc32eeff.jpg": "/looper/static/media/uifaces3.fc32eeff.jpg",
+    "static/media/uifaces6.fe3dba1c.jpg": "/looper/static/media/uifaces6.fe3dba1c.jpg",
+    "static/media/uifaces7.5f6219a8.jpg": "/looper/static/media/uifaces7.5f6219a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0265ba97.js",
+    "static/css/2.0051d83b.chunk.css",
+    "static/js/2.5eb389fe.chunk.js",
+    "static/css/main.409357dd.chunk.css",
+    "static/js/main.c5fc52e4.chunk.js"
+  ]
+}
