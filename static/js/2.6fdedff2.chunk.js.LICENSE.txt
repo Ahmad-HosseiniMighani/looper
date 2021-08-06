@@ -16,6 +16,13 @@ object-assign
    */
 
 /*!
+ * Chart.js v3.5.0
+ * https://www.chartjs.org
+ * (c) 2021 Chart.js Contributors
+ * Released under the MIT License
+ */
+
+/*!
  * jQuery JavaScript Library v3.6.0
  * https://jquery.com/
  *
