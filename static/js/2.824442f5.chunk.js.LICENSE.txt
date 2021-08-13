@@ -5,6 +5,20 @@ object-assign
 */
 
 /*!
+         * The buffer module from node.js, for the browser.
+         *
+         * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+         * @license  MIT
+         */
+
+/*!
+        * The buffer module from node.js, for the browser.
+        *
+        * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+        * @license  MIT
+        */
+
+/*!
    * Sizzle CSS Selector Engine v2.3.6
    * https://sizzlejs.com/
    *
@@ -41,6 +55,8 @@ object-assign
  * Copyright 2020 Hyunje Jun, MDBootstrap and Contributors
  * Licensed under MIT
  */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
 
 /** @license React v0.20.2
  * scheduler.production.min.js
