@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/looper/static/css/main.831601bd.chunk.css",
-    "main.js": "/looper/static/js/main.0ad9f1ea.chunk.js",
-    "main.js.map": "/looper/static/js/main.0ad9f1ea.chunk.js.map",
-    "runtime-main.js": "/looper/static/js/runtime-main.156140d0.js",
-    "runtime-main.js.map": "/looper/static/js/runtime-main.156140d0.js.map",
+    "main.css": "/looper/static/css/main.a01246f7.chunk.css",
+    "main.js": "/looper/static/js/main.0f543b33.chunk.js",
+    "main.js.map": "/looper/static/js/main.0f543b33.chunk.js.map",
+    "runtime-main.js": "/looper/static/js/runtime-main.34adf22d.js",
+    "runtime-main.js.map": "/looper/static/js/runtime-main.34adf22d.js.map",
     "static/css/2.f91d5903.chunk.css": "/looper/static/css/2.f91d5903.chunk.css",
-    "static/js/2.9b567584.chunk.js": "/looper/static/js/2.9b567584.chunk.js",
-    "static/js/2.9b567584.chunk.js.map": "/looper/static/js/2.9b567584.chunk.js.map",
-    "static/js/3.9616322a.chunk.js": "/looper/static/js/3.9616322a.chunk.js",
-    "static/js/3.9616322a.chunk.js.map": "/looper/static/js/3.9616322a.chunk.js.map",
+    "static/js/2.fe622131.chunk.js": "/looper/static/js/2.fe622131.chunk.js",
+    "static/js/2.fe622131.chunk.js.map": "/looper/static/js/2.fe622131.chunk.js.map",
+    "static/js/3.707eed47.chunk.js": "/looper/static/js/3.707eed47.chunk.js",
+    "static/js/3.707eed47.chunk.js.map": "/looper/static/js/3.707eed47.chunk.js.map",
     "index.html": "/looper/index.html",
     "static/css/2.f91d5903.chunk.css.map": "/looper/static/css/2.f91d5903.chunk.css.map",
-    "static/css/main.831601bd.chunk.css.map": "/looper/static/css/main.831601bd.chunk.css.map",
-    "static/js/2.9b567584.chunk.js.LICENSE.txt": "/looper/static/js/2.9b567584.chunk.js.LICENSE.txt",
+    "static/css/main.a01246f7.chunk.css.map": "/looper/static/css/main.a01246f7.chunk.css.map",
+    "static/js/2.fe622131.chunk.js.LICENSE.txt": "/looper/static/js/2.fe622131.chunk.js.LICENSE.txt",
     "static/media/font-face.css": "/looper/static/media/Vazir-Thin.d96998b3.woff2",
     "static/media/all.css": "/looper/static/media/fa-solid-900.efbd5d20.eot",
     "static/media/img-1.44d6e05d.jpg": "/looper/static/media/img-1.44d6e05d.jpg",
@@ -30,10 +30,10 @@
     "static/media/uifaces7.5f6219a8.jpg": "/looper/static/media/uifaces7.5f6219a8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.156140d0.js",
+    "static/js/runtime-main.34adf22d.js",
     "static/css/2.f91d5903.chunk.css",
-    "static/js/2.9b567584.chunk.js",
-    "static/css/main.831601bd.chunk.css",
-    "static/js/main.0ad9f1ea.chunk.js"
+    "static/js/2.fe622131.chunk.js",
+    "static/css/main.a01246f7.chunk.css",
+    "static/js/main.0f543b33.chunk.js"
   ]
 }
