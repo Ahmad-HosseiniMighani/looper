@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/looper/static/css/main.319fba1d.chunk.css",
-    "main.js": "/looper/static/js/main.52171fcb.chunk.js",
-    "main.js.map": "/looper/static/js/main.52171fcb.chunk.js.map",
+    "main.js": "/looper/static/js/main.c4e81462.chunk.js",
+    "main.js.map": "/looper/static/js/main.c4e81462.chunk.js.map",
     "runtime-main.js": "/looper/static/js/runtime-main.e00e18e6.js",
     "runtime-main.js.map": "/looper/static/js/runtime-main.e00e18e6.js.map",
     "static/css/2.9f5ed779.chunk.css": "/looper/static/css/2.9f5ed779.chunk.css",
@@ -18,6 +18,7 @@
     "static/media/all.css": "/looper/static/media/fa-solid-900.efbd5d20.eot",
     "static/media/img-1.44d6e05d.jpg": "/looper/static/media/img-1.44d6e05d.jpg",
     "static/media/img-4.6492fc27.jpg": "/looper/static/media/img-4.6492fc27.jpg",
+    "static/media/invoice.c761d8e3.jpg": "/looper/static/media/invoice.c761d8e3.jpg",
     "static/media/logo.b15cab55.svg": "/looper/static/media/logo.b15cab55.svg",
     "static/media/uifaces1.f56b774f.jpg": "/looper/static/media/uifaces1.f56b774f.jpg",
     "static/media/uifaces15.d0ebaec8.jpg": "/looper/static/media/uifaces15.d0ebaec8.jpg",
@@ -34,6 +35,6 @@
     "static/css/2.9f5ed779.chunk.css",
     "static/js/2.b9564a33.chunk.js",
     "static/css/main.319fba1d.chunk.css",
-    "static/js/main.52171fcb.chunk.js"
+    "static/js/main.c4e81462.chunk.js"
   ]
 }
