@@ -1,0 +1,7 @@
+[
+    {"title": "Teams", "icon": "fas fa-users", "tileOption": "tile tile-lg bg-indigo", "link": "link"},
+    {"title": "Projects", "icon": "fas fa-code-branch", "tileOption": "tile tile-lg bg-teal", "link": "link"},
+    {"title": "Tasks", "icon": "fa fa-tasks", "tileOption": "tile tile-lg bg-pink", "link": "link"},
+    {"title": "Feeds", "icon": "fas fa-fire", "tileOption": "tile tile-lg bg-yellow", "link": "link"},
+    {"title": "Files", "icon": "fas fa-file-alt", "tileOption": "tile tile-lg bg-cyan", "link": "link"}
+]
