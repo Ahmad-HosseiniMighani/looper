@@ -1,0 +1,8 @@
+[
+    {"unread":true,"title":"Stilearning","text":"Invitation: Joe's Dinner @ Fri Aug 22","date":"2 hours ago","tileImg":"","img":"team1","link":"link"},
+    {"unread":false,"title":"Openlane","text":"Final reminder: Upgrade to Pro","date":"23 hours ago","tileImg":"","img":"team3","link":"link"},
+    {"unread":false,"title":"Gogo Zoom","text":"Live healthy with this wireless sensor.","date":"1 day ago","tileImg":"GZ","img":"","link":"link"},
+    {"unread":false,"title":"Gold Dex","text":"Invitation: Design Review @ Mon Jul 7","date":"1 day ago","tileImg":"GD","img":"","link":"link"},
+    {"unread":false,"title":"Creative Division","text":"Need some feedback on this please","date":"2 days ago","tileImg":"","img":"team2","link":"link"},
+    {"unread":false,"title":"Lab Drill","text":"Our UX exercise is ready","date":"6 days ago","tileImg":"LD","img":"","link":"link"}
+]
